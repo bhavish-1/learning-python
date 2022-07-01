@@ -74,3 +74,10 @@ print(10>1)
 
 ## boolean : true or false.
 print("cat"=="cat")
+
+##cannot check between a number and a string because python cannot know whether it is a string or a number
+# if(condition):
+#    print()/ or what ever operation
+# else:
+#     print("whatever statement")/what ever statement
+
