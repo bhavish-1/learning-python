@@ -81,3 +81,20 @@ print("cat"=="cat")
 # else:
 #     print("whatever statement")/what ever statement
 
+## elif means else if fucntion..
+
+def username_char(username):
+    if(username < 10):
+        print("invalid username cannot ")
+    else:
+        print("Invalid")
+
+username = 25
+
+print("big" > "small")
+
+###while loop
+x=0
+while x<5:
+    print("not there yet, x =" + str(x))
+    x=x+1
